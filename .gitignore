@@ -1,0 +1,17 @@
+**/__pycache__/
+__pycache__
+*.pyc
+.idea
+*idea
+**/_idea__/
+*.venv
+**/__.venv__/
+.venv
+.idea/
+*.iml
+/venv/
+__pycache__/
+*.log
+*.swp
+*pgdata
+*.idea
